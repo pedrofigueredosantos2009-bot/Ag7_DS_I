@@ -41,11 +41,10 @@ Feito em
 
   Estrutura do projeto
 
-```text
+text
 consumo-agua/
 ├── app.py
 └── README.md
-```
 
   Autor
 
