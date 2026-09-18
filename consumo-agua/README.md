@@ -23,7 +23,7 @@ O objetivo do projeto é praticar a utilização de estruturas condicionais em P
 *  Apartamento ou casa com consumo de até 25 m³: consumo moderado.
 *  Outros casos: consumo excessivo.
 
- Tecnologias utilizadas
+Feito em 
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python\&logoColor=white)
 
